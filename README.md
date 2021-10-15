@@ -1,6 +1,7 @@
 <h1 align="center">Hi! I'm Sarah. 🐙 </h1>
 <h3 align="center">An aspiring full-stack developer & software engineering student from Sydney, Australia.</h3>
-<img align="center" src="https://forthebadge.com/images/badges/powered-by-coffee.svg">
+<center>
+<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
