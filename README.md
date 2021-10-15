@@ -1,7 +1,6 @@
 <h1 align="center">Hi! I'm Sarah. 🐙 </h1>
 <h3 align="center">An aspiring full-stack developer & software engineering student from Sydney, Australia.</h3>
-<center>
-<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg">
+<p align="center"><img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,4 +12,3 @@
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sarahjune85&show_icons=true&locale=en" alt="sarahjune85" /></p>
 
-</center>
